@@ -48,6 +48,17 @@ int main(){
             
         }
         if(code == 3){
+            printf("ruxia：\n");
+
+            for (int i = 0; i < index; i++)
+            {
+                printf("DI%dWEI%c\n", i + 1, arr[i]);
+            }
+
+            printf("chenggong,huiche\n");
+            char x;
+            scanf("%c", &x);
+            scanf("%c", &x);
             
         }
         if(code == 4){
