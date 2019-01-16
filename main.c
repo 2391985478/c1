@@ -37,6 +37,14 @@ int main(){
 
         }
         if(code == 2){
+             printf("shanchu\n");
+            index--;
+
+            printf("chenggong,huiche\n");
+            char x;
+            scanf("%c",&x);
+            scanf("%c",&x);
+
             
         }
         if(code == 3){
